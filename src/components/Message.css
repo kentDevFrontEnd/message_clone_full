@@ -1,0 +1,14 @@
+.message {
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    background-color: #ddd !important;
+}
+
+.message__user {
+    margin-left: auto;
+    background-color: rgb(109, 243, 232) !important;
+    /* justify-content: flex-end; */
+}
